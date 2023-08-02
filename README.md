@@ -15,9 +15,8 @@ I'm Yunze and I'm glad you found me here. Some quick facts about me:
 🍳 What I Know 
 ---
 |Languages    |![My Skills](https://skillicons.dev/icons?i=ts,js,html,python,java,bash)|
-|:-----------:|-------------|
+|:-----------:|:-------------|
 |Backend      |![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb)|
-|Frontend     |![My Skills](https://skillicons.dev/icons?i=react,vue,gatsby,redux)|
-|CSS solutions|![My Skills](https://skillicons.dev/icons?i=css,emotion,tailwind,bootstrap)|
+|Frontend     |![My Skills](https://skillicons.dev/icons?i=react,vue,gatsby,redux,css,emotion,tailwind,bootstrap)|
 |ML/AI        |![My Skills](https://skillicons.dev/icons?i=pytorch)|
 |Devops       |![My Skills](https://skillicons.dev/icons?i=docker,githubactions)|
