@@ -1,16 +1,41 @@
-### Hi there 👋
+👋 Hi, 你好.
+I'm Yunze and I'm glad you found me here. Some quick facts about me:
 
-<!--
-**syzxy/syzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Work
+---
 
-Here are some ideas to get you started:
+- 🤖 I'm currently working at a Sydney based tech company called [Dovetail](https://dovetail.com/), recently on it's [AI features](https://dovetail.com/blog/ai-vision/) using LLMs.
+- 👨🏻‍💻 I built the latest version of Dovetail's Gatsby marketing website, along with 2 other colleagues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Outside of Work
+---
+- 🌐 I like to build full-stack web apps, mostly clones but every once in a while original. My employment history says I'm a frontend engineer and that's by choice, I can go full stack.
+- 3️⃣ I'm interested in computer graphics on the web, [`p5.js`](https://p5js.org/), `WebGL`, [`three.js`](https://threejs.org/), [`R3F`](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) and [`visx`](https://airbnb.io/visx/) are some libraries I love.
+
+🍳 What I Know 
+---
+Languages
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,python,java,bash)
+
+Backend
+
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb)
+
+Frontend
+
+![My Skills](https://skillicons.dev/icons?i=react,vue,gatsby,redux)
+
+CSS solutions
+
+![My Skills](https://skillicons.dev/icons?i=css,emotion,tailwind,bootstrap)
+
+ML/AI
+
+![My Skills](https://skillicons.dev/icons?i=pytorch)
+
+
+Devops
+
+![My Skills](https://skillicons.dev/icons?i=docker,githubactions)
+
