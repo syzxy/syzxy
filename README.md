@@ -4,8 +4,7 @@ I'm Yunze and I'm glad you found me here. Some quick facts about me:
 💼 Work
 ---
 
-- 🤖 I'm currently working at a Sydney-based tech company called [Dovetail](https://dovetail.com/), recently on its [AI features](https://dovetail.com/blog/ai-vision/) using LLMs.
-- 👨🏻‍💻 I built the latest version of Dovetail's Gatsby marketing website, along with 2 other colleagues.
+- 🤖 I'm a software engineer based in Sydney.
 
 💻 Outside of Work
 ---
